@@ -1,2 +1,2 @@
-#TD 01: Git
+# TD 01: Git
 Welcome to GIC
